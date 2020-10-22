@@ -38,23 +38,24 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 69);
+            this.label1.Location = new System.Drawing.Point(30, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 15);
+            this.label1.Size = new System.Drawing.Size(160, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Informe o numero";
+            this.label1.Text = "Informe Um Número Natural";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtValor
             // 
-            this.txtValor.Location = new System.Drawing.Point(30, 87);
+            this.txtValor.Location = new System.Drawing.Point(30, 36);
             this.txtValor.Name = "txtValor";
             this.txtValor.Size = new System.Drawing.Size(100, 23);
             this.txtValor.TabIndex = 1;
+            this.txtValor.TextChanged += new System.EventHandler(this.txtValor_TextChanged);
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(180, 86);
+            this.btnCalcular.Location = new System.Drawing.Point(259, 36);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(75, 23);
             this.btnCalcular.TabIndex = 2;
@@ -65,17 +66,17 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 151);
+            this.label2.Location = new System.Drawing.Point(414, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(85, 15);
+            this.label2.Size = new System.Drawing.Size(191, 15);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Fatores Primos";
+            this.label2.Text = "Decomposição de Número Natural";
             // 
             // lbFatores
             // 
             this.lbFatores.FormattingEnabled = true;
             this.lbFatores.ItemHeight = 15;
-            this.lbFatores.Location = new System.Drawing.Point(30, 169);
+            this.lbFatores.Location = new System.Drawing.Point(414, 36);
             this.lbFatores.Name = "lbFatores";
             this.lbFatores.Size = new System.Drawing.Size(120, 94);
             this.lbFatores.TabIndex = 4;

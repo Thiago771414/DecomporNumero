@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\DataTransferObject\\DataTransferObject.csproj",
-      "projectName": "DataTransferObject",
-      "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\DataTransferObject\\DataTransferObject.csproj",
+      "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\DataTransferObject\\dataTransferObject.csproj",
+      "projectName": "dataTransferObject",
+      "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\DataTransferObject\\dataTransferObject.csproj",
       "packagesPath": "C:\\Users\\thiso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\DataTransferObject\\obj\\",
+      "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\DataTransferObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj": {
-              "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj"
+            "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj": {
+              "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj"
             }
           }
         }

@@ -1,13 +1,16 @@
-﻿namespace decomporNumero
+﻿using System;
+
+namespace decomporNumero
 {
     public static class Calculo
     {
         const int MAX_SIZE = 15000;
 
-        static bool IsNumeroPrimo(int numero)
+        static bool IsNumeroPrimo(long numero)
         {
             bool bPrimo = true;
-            int fator = numero / 2;
+            long fator = numero / 2;
+
             int i = 0;
             for (i = 2; i <= fator; i++)
             {
@@ -16,11 +19,11 @@
             }
             return bPrimo;
         }
-        static public int GetFatoresPrimos(int numero, out int[] arrResultado)
+        static public long GetFatoresPrimos(long numero, out long[] arrResultado)
         {
             int contador = 0;
             int[] vetor = new int[MAX_SIZE];
-            arrResultado = new int[MAX_SIZE];
+            arrResultado = new long[MAX_SIZE];
             int i = 0;
             int indice = 0;
             for (i = 2; i <= numero; i++)

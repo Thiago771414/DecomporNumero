@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj": {}
+    "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj": {
+    "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj",
+        "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj",
         "projectName": "decomporNumero",
-        "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\decomporNumero.csproj",
+        "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\decomporNumero.csproj",
         "packagesPath": "C:\\Users\\thiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\decomporNumero\\obj\\",
+        "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\decomporNumero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

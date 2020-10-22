@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace decomporNumero
 {
@@ -24,9 +25,22 @@ namespace decomporNumero
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            if (textBoxVazias())
+            {
+                MessageBox.Show("O campo não pode ser vazio");
+                txtValor.Text = "0";
+            }
+
+            if (apenasNumeros(e))
+            {
+                MessageBox.Show("Campo Somente Número");
+                txtValor.Text = "0";
+            }
+
             lbFatores.Items.Clear();
-            int numero = Convert.ToInt32(txtValor.Text);
-            int contador = Calculo.GetFatoresPrimos(numero, out int[] arrResultado);
+
+            long numero = Convert.ToInt64(txtValor.Text);
+            long contador = Calculo.GetFatoresPrimos(numero, out long[] arrResultado);
             for (int i = 0; i < contador; i++)
             {
                 lbFatores.Items.Add(arrResultado[i]);
@@ -39,6 +53,36 @@ namespace decomporNumero
         private void lbFatores_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void txtValor_TextChanged(object sender, EventArgs e)
+        {
+         
+
+        }
+
+        private bool textBoxVazias()
+        {
+            foreach (Control c in this.Controls)
+                if (c is TextBox)
+                {
+                    TextBox textBox = c as TextBox;
+                    if (string.IsNullOrWhiteSpace(textBox.Text))
+                        return true;
+                }
+            return false;
+        }
+
+        private bool apenasNumeros(EventArgs e)
+        {
+            foreach (Control c in this.Controls)
+                if (c is TextBox)
+                {
+                    TextBox textBox = c as TextBox;
+                    if (Regex.IsMatch(textBox.Text, @"[^\d]"))
+                        return true;
+                }
+            return false;
         }
     }
 }

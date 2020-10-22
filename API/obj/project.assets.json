@@ -3881,11 +3881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\API\\API.csproj",
+      "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\API\\API.csproj",
       "packagesPath": "C:\\Users\\thiso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\API\\obj\\",
+      "outputPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3904,8 +3904,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\DataTransferObject\\dataTransferObject.csproj": {
-              "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\DataTransferObject\\dataTransferObject.csproj"
+            "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\DataTransferObject\\dataTransferObject.csproj": {
+              "projectPath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\DataTransferObject\\dataTransferObject.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1Mj8/up1An3HlcooPJRsICbZ7MqHc/dLUBnyHuDjKBd2isaTFJnX4NIGr1ehrFb58uZ7x58NSHClIKQFiUlTw==",
+  "dgSpecHash": "c3fcHjNkvBjZsHxvNMrL9khqQQqd9fqAABXN3KIwAeL6VtB0gXQLk5Ediwe9zyGPOMTP995vgdrgVRPpPv3L3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\DecomporNumero\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\thiso\\OneDrive\\Documentos\\biblioteca\\Localiza\\decompor\\decomporNumero\\decomporNumero\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
