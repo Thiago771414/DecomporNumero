@@ -35,5 +35,10 @@ namespace decomporNumero
                 lbFatores.Items.Add(string.Format("{0} {1}", arrResultado[i], "*"));
             }
         }
+
+        private void lbFatores_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

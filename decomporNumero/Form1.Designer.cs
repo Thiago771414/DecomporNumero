@@ -79,6 +79,7 @@
             this.lbFatores.Name = "lbFatores";
             this.lbFatores.Size = new System.Drawing.Size(120, 94);
             this.lbFatores.TabIndex = 4;
+            this.lbFatores.SelectedIndexChanged += new System.EventHandler(this.lbFatores_SelectedIndexChanged);
             // 
             // Form1
             // 

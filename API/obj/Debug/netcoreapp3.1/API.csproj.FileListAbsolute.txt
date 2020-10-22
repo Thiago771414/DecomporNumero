@@ -1,0 +1,5 @@
+C:\Users\thiso\OneDrive\Documentos\biblioteca\Localiza\decompor\decomporNumero\DecomporNumero\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\thiso\OneDrive\Documentos\biblioteca\Localiza\decompor\decomporNumero\DecomporNumero\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\thiso\OneDrive\Documentos\biblioteca\Localiza\decompor\decomporNumero\DecomporNumero\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\thiso\OneDrive\Documentos\biblioteca\Localiza\decompor\decomporNumero\DecomporNumero\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\thiso\OneDrive\Documentos\biblioteca\Localiza\decompor\decomporNumero\DecomporNumero\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
