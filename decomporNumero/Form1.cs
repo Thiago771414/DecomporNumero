@@ -33,7 +33,7 @@ namespace decomporNumero
 
             if (apenasNumeros(e))
             {
-                MessageBox.Show("Campo Somente Número");
+                MessageBox.Show("Campo Somente Número, não use ponto");
                 txtValor.Text = "0";
             }
 
